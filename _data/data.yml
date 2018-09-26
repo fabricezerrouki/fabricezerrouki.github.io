@@ -1,0 +1,23 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+career-profile:
+    title: Senior system engineer - Microsoft IIS expert & MVP PowerShell
+    summary: |
+      Hey mr recruiter : MS System Engineer doesnt mean C# developper, right ?
+experiences:
+    - role: Accompagnement projets DevOps
+      time: depuis Juin 2018
+      company: Société Générale
+      details: |
+        Au sein de l'équipe ITIM/ASI/SDC/ACC, j'assiste les équipes projets à utiliser les outils DevOps mi à leur disposition.
+        J'apporte également mon expérience dans l'exploitation des plateformes métier.
+    - role: Ingénieur IT « Robotic Process Automation » (RPA)
+      time: Octobre 2017 - Juin 2018
+      company: BNP Paribas
+      details: |
+        MCO de l’infrastructure RPA. Support niveau 3. 
+        Industrialisation de l’installation du socle technique (Blue Prism Server/Agent, configuration, etc.). 
+        Création d’un dashboard client de reporting et d’analyse des exécutions des processes (PHP/MSSQL). 
+        Définition des standards de livraison des processes automatisés.
