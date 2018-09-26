@@ -1,6 +1,6 @@
 {% include resume-career-profile.html %}
 
-{% unless site.data.data.sidebar.education %} {% include resume-education.html %} {% endunless %}
+#{% unless site.data.data.sidebar.education %} {% include resume-education.html %} {% endunless %}
 
 {% include resume-experiences.html %}
 
