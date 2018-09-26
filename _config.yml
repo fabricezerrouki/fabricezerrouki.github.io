@@ -1,0 +1,53 @@
+# General Settings
+name: Fabrice ZERROUKI
+job_title: Senior system engineer - Microsoft IIS expert & MVP PowerShell
+email: fabricezerrouki@hotmail.com
+favicon: /favicon.ico
+twitter_handler: FabriceZERROUKI
+analytics_code: UA-XXXXXXX-2
+
+# Social Accounts
+social_networks:
+-  { name: twitter, url: 'https://twitter.com/FabriceZERROUKI' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/fabrice-zerrouki/' }
+
+# Modules Settings
+show_categories: 1
+show_tags: 1
+show_email: 0
+show_rss: 1
+show_menu: 1
+fixed_sidebar: 1
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: "true"
+
+# Serving
+url: "https://fabricezerrouki.github.io"
+baseurl: ""
+
+# Includes
+include: ["_pages"]
+
+# Outputting
+permalink: /:categories/:title.html
+category_dir: categories
+
+# Pagination
+paginate: 10
+paginate_path: "/page:num/"
+
+# Conversion
+markdown: kramdown
+excerpt_separator: <!--more-->
+
+# Assets Settings
+sass:
+  sass_dir: assets/partials
+  style: compressed
